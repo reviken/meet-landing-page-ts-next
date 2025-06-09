@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/reviken/meet-landing-page-ts-next)
-- Live Site URL: [Add live site URL here](https://meet-landing-page-ts-next-q6xn8dsm9.vercel.app)
+- Solution URL: [github.com/reviken/meet-landing-page-ts-next](https://github.com/reviken/meet-landing-page-ts-next)
+- Live Site URL: [meet-landing-page-ts-next-q6xn8dsm9.vercel.app](https://meet-landing-page-ts-next-q6xn8dsm9.vercel.app)
 
 ## My process
 
