@@ -21,7 +21,7 @@ export default function Footer() {
           Stay connected with reliable HD meetings and unlimited one-on-one and
           group video sessions.
         </p>
-        <div className="desktop:basis-[33%]">
+        <div className="desktop:basis-[33%] self-center">
           <ButtonLink href="/" color="purple-600">
             Download <span className="text-purple-300">v1.3</span>
           </ButtonLink>
